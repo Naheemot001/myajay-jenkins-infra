@@ -1,14 +1,6 @@
-# Terraform
 .terraform/
 *.tfstate
 *.tfstate.*
 crash.log
 *.tfvars
 *.tfvars.json
-
-# Terraform lock file
-# Keep this file committed
-# .terraform.lock.hcl
-
-# macOS
-.DS_Store
