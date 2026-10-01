@@ -50,6 +50,6 @@ variable "zone_id" {
 variable "domain_name" {
   type        = string
   description = "domain"
-  default     = "myajay.com"
+  default     = "jenkins.myajay.com"
 
 }
